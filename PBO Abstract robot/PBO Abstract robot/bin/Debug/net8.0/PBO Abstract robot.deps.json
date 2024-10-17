@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PBO Abstract robot/1.0.0": {
+        "runtime": {
+          "PBO Abstract robot.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PBO Abstract robot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

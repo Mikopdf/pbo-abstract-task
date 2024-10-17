@@ -1,0 +1,14 @@
+C:\Users\mikoi\source\repos\PBO Abstract robot\PBO Abstract robot\bin\Debug\net8.0\PBO Abstract robot.exe
+C:\Users\mikoi\source\repos\PBO Abstract robot\PBO Abstract robot\bin\Debug\net8.0\PBO Abstract robot.deps.json
+C:\Users\mikoi\source\repos\PBO Abstract robot\PBO Abstract robot\bin\Debug\net8.0\PBO Abstract robot.runtimeconfig.json
+C:\Users\mikoi\source\repos\PBO Abstract robot\PBO Abstract robot\bin\Debug\net8.0\PBO Abstract robot.dll
+C:\Users\mikoi\source\repos\PBO Abstract robot\PBO Abstract robot\bin\Debug\net8.0\PBO Abstract robot.pdb
+C:\Users\mikoi\source\repos\PBO Abstract robot\PBO Abstract robot\obj\Debug\net8.0\PBO Abstract robot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikoi\source\repos\PBO Abstract robot\PBO Abstract robot\obj\Debug\net8.0\PBO Abstract robot.AssemblyInfoInputs.cache
+C:\Users\mikoi\source\repos\PBO Abstract robot\PBO Abstract robot\obj\Debug\net8.0\PBO Abstract robot.AssemblyInfo.cs
+C:\Users\mikoi\source\repos\PBO Abstract robot\PBO Abstract robot\obj\Debug\net8.0\PBO Abstract robot.csproj.CoreCompileInputs.cache
+C:\Users\mikoi\source\repos\PBO Abstract robot\PBO Abstract robot\obj\Debug\net8.0\PBO Abstract robot.dll
+C:\Users\mikoi\source\repos\PBO Abstract robot\PBO Abstract robot\obj\Debug\net8.0\refint\PBO Abstract robot.dll
+C:\Users\mikoi\source\repos\PBO Abstract robot\PBO Abstract robot\obj\Debug\net8.0\PBO Abstract robot.pdb
+C:\Users\mikoi\source\repos\PBO Abstract robot\PBO Abstract robot\obj\Debug\net8.0\PBO Abstract robot.genruntimeconfig.cache
+C:\Users\mikoi\source\repos\PBO Abstract robot\PBO Abstract robot\obj\Debug\net8.0\ref\PBO Abstract robot.dll
