@@ -29,7 +29,7 @@ public abstract class Robot
     {
         int damage = Math.Max(0, Serangan - target.Armor);
         target.Energi -= damage;
-        Console.WriteLine($"{Nama} menyerang {target.Nama}, memberikan {damage} damage!");
+        Console.WriteLine($"{Nama} menyerang tes {target.Nama}, memberikan {damage} damage!");
     }
 
     public abstract void GunakanKemampuan(IKemampuan kemampuan);
